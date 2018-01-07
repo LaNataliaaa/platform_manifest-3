@@ -1,1 +1,14 @@
 T's the final countdown
+====================
+
+
+To initialize your local repository use
+---------------------------------------
+
+    repo init -u https://github.com/nitrogen-project/android_manifest.git -b o2
+    
+
+Then to sync up:
+----------------
+
+    repo sync -j 16
