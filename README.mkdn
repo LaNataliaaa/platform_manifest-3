@@ -5,7 +5,7 @@ T's the final countdown
 To initialize your local repository use
 ---------------------------------------
 
-    repo init -u https://github.com/nitrogen-project/android_manifest.git -b o2
+    repo init -u https://github.com/NotPureAOSP/platform_manifest.git -b nougat
     
 
 Then to sync up:
